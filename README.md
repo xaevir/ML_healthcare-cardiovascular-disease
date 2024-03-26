@@ -22,7 +22,7 @@ Cardiovascular diseases are the leading cause of death globally. It is therefore
 | thal | 3 = normal; 6 = fixed defect; 7 = reversible defect |
 | Target | 1 or 0 |
 
-##Task to be performed:
+## Task to be performed:
 <ol>
     <li><b>Preliminary analysis:</b>
         <ol type="a">
